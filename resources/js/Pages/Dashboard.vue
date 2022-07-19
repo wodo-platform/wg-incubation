@@ -75,8 +75,6 @@ function gameActionButtonClicked(game) {
             <LaunchCalendarSlide class="pt-20"></LaunchCalendarSlide>
 
             <ArticlesSlide class="pt-20"></ArticlesSlide>
-
-            <TimelineShape></TimelineShape>
         </div>
     </div>
 </template>
